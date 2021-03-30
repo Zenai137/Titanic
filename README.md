@@ -1,2 +1,2 @@
 # Titanic
-k-NN Classification of Titanic Survivors
+k-NN Classification and Decision Tree of Titanic Survivors
